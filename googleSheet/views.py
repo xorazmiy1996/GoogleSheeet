@@ -8,11 +8,13 @@ from xml.etree import ElementTree
 import requests
 
 from .models import Datas
+from test import write
 
 
 # Front
 class GoogleSheetView(View):
     def get(self, request):
+        write()
         date = []
         rubles = []
         data = Datas.objects.all()
