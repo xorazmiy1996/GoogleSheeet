@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forward-chess-359209",
+  "private_key_id": "0267807faa89e69bd24fa3cade65a5c0db72887c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDsDT9DhO1YtiZk\nrtlR0kPw5bWaMHH9YE1VCHo32ub5j/ggkc577I+qo9YDWqECld4S/FySSbFxUhFQ\ngXQlRuSHWhmhk0Gl6YmovhjQ93IdPxGYKc8gwLGZc1hk3uXnqKcuyinFjVjEGwC0\nplv9RJpyD4rkhkj3Z+AVRYLBf1sGSDVjHUxpRV/aYZHy+SvJ1g/5pN6x7iQTUd3O\n/y5d+1VWwtohSzlhx61PTwAp4LqnjWG8FKvQ70/3TP5RRozSAFehJ++R+JlpCDre\n4CbxxfmVFfzppJk/2mBm0VDtagKhcvgCVSWNmOfZQ3byLT5kKU7GamLpIRlsoGJg\nyJjpvERLAgMBAAECggEAO+qE42OLR1g82JOVL/KaMjxsYy3m0TSvjGTxeNoEhNYp\nWkMIUWZTdTHO8d0AP4LA8rrB2JQCCUyWfoPNcmTTPxP8q4mQQUfNHFrcO7aDba8D\njUcXfy3KJrQjfL8jRjEF9pd0EOP24xgjjrcnZFsUhN0zGRyIytvAAkY5kVn9RdNz\nburgEGS8v2fHYQGr1ZFnjtdv8MMeRnj2y/KNR96re1JWYa/apmcX4gu1KKh27QUS\nWJvuiL2oGBe9GZ3XkhXInc2b5Cz9ByLSBWboLVYM82QJKJM0Y553vdRo7uNNevDt\nca195Lkzx3zjDgSY3eVm7BT2EtytN05+QDb06x96kQKBgQD/Y/9fKU/x9tmHTTIM\n2AHBJMtAGoDku6JYxPp0HTH3qeW//GywuL+Nxzl7hQQNyTY6qYsVHYKZxNKzZ2wp\n0NnSjfDP+G9lFSH6IDfVNwLNprwT5s0sWDdswH42hmIj2pJqb3X1Q9Vl4Un6hP03\na5ddGwqsqQzkZCpZUH5diDy2WQKBgQDsnW/IS8+9JCSJwCd5sPmzrGBe/BY8cLRw\nqkbSIXRxU9MG2HVEKKic95Xceuqvlb/a+j+7x1Hr7MRbqrowh2aW/pccXw8GrmvY\nL9TBJNY/9gfYqIgn7tdFBf9IFqodAdeq4YMHcRjdM2m2H0rp/EZW6GTdaywyofFD\njBfcZbGDQwKBgC5keuJNfeFFZzSF2F6u6nqsdWN6rQlf8FjRx3FKUGZd7YdXkmLz\n3JAjrZR7kEX01C4J2GMIjk3ijCfc1LAv6TGvaRxOU+X31ck7CwlnSdITxLyUw5aX\nm9HckdDTzoYW0VwWTUY1gVFVgHvKprjniYJ3RBQjTV07uNmqnpndArJZAoGAGW9v\nJcPoh/eLqfcrByzcGtFr5qoIpeSjsPzM8ifAgbI2HCVGrdYFEiKXTIU2FzvszNhb\n446wosDn9saqjy7u+0pQ6i7ZyakUVMAHid+w3F1RSJwNTuWg5H2ZjKFLFiUtjuQB\nFtq0horRUU+Z2P9SfGMs/JRZwvOfoNg9dGbGJ0sCgYBkvz6mq3FkSN76c95hEBEV\n/ZofopxKzKKP9A8EE/pTX4477oRj8ZcIAZu5Oxhrn01Tnh5q758mPvptfPOLSULO\ngqsmHxicS3NEM5sKLQyVuirknMLzAlz+A4AQB+izIAG7DYh6Hwk/JvIGFTI+MsLY\nsWAbdjA0msFaIKErr3eD+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythongooglesheet@forward-chess-359209.iam.gserviceaccount.com",
+  "client_id": "101453959193057210662",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythongooglesheet%40forward-chess-359209.iam.gserviceaccount.com"
+}

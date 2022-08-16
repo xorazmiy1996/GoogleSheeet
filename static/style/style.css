@@ -1,0 +1,33 @@
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+
+}
+
+.top {
+    background-color: #35F168;
+}
+
+img {
+    clip-path: circle(40%);
+    margin-bottom: 1px;
+    width: 150px;
+
+}
+h1 {
+    text-align: center;
+
+
+}
+.text {
+    margin-left: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.content {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
